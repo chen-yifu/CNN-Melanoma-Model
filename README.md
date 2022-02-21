@@ -1,5 +1,6 @@
-# Using CNNs to classify melanoma images
-A course project for CS221 at Stanford
+# Using Convolutional Neural Networks to classify melanoma images
+
+A final project for the "CS221 - Artificial Intelligence" course at Stanford.
 
 ![width=20cm](images/CS221_Report.jpg)
 ![width=20cm](images/CS221_Report2.jpg)
