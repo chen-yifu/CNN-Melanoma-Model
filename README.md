@@ -1,4 +1,4 @@
-# Using Convolutional Neural Networks to classify melanoma images
+# Using Convolutional Neural Networks to classify dermoscopy images
 
 A final project for the "CS221 - Artificial Intelligence" course at Stanford.
 
