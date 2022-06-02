@@ -2,9 +2,7 @@
 
 A final project report for the "CS221 - Artificial Intelligence" course at Stanford.
 
-Please see the research paper for more details.
-
-![width=20cm](images/CS221_Report.jpg)
+![width=1000px](images/CS221_Report.jpg)
 ![width=20cm](images/CS221_Report2.jpg)
 ![width=20cm](images/CS221_Report3.jpg)
 ![width=20cm](images/CS221_Report4.jpg)
