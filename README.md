@@ -1,3 +1,6 @@
 # Using Convolutional Neural Networks to Detect Melanoma
 
-A final project report for the "CS221 - Artificial Intelligence" course at Stanford. For details, please refer to the PDF at ![README (PDF)](README.pdf)
+A final project the Artificial Intelligence class at Stanford. For details, please refer to the here: [README (PDF)](README.pdf)
+
+## Authors
+Y. Chen, M. Frangos, J. Smith, A. Raisul
